@@ -1,0 +1,1 @@
+{"version":3,"file":"query-readings.dto.js","sourceRoot":"","sources":["../../../src/sensors/dto/query-readings.dto.ts"],"names":[],"mappings":";;;;;;;;;AAAA,OAAO,EAAE,UAAU,EAAE,QAAQ,EAAE,MAAM,iBAAiB,CAAC;AAEvD,MAAM,OAAO,gBAAgB;CAK5B;AAJa;IAAX,QAAQ,EAAE;;kDAAmB;AACJ;IAAzB,UAAU,EAAE;IAAE,QAAQ,EAAE;;8CAAe;AACd;IAAzB,UAAU,EAAE;IAAE,QAAQ,EAAE;;4CAAa;AACxB;IAAb,UAAU,EAAE;;+CAAgB"}
